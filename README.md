@@ -7,3 +7,5 @@ Vuejs theme hosting with Firebase
 4. firebase login
 5. firebase init  (point Firebase to the dist folder )
 6. firebase deploy
+7. open
+https://site-33d2a.firebaseapp.com
